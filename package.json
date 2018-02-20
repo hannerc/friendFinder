@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
    "dependencies": {
-    "body-parser": "^1.15.0",
+    "body-parser": "^1.17.2",
     "express": "^4.13.4"},
   "bugs": {
     "url": "https://github.com/hannerc/friendFinder/issues"
