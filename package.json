@@ -1,8 +1,8 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
-   "engines": {
+  "description": "App which allows a user to complete a breif survey and then based on their results, the most compatible friend who has already completed the survey is presented to them",
+  "engines": {
     "node": "8.9.4"
   },
   "main": "app/server.js",
@@ -16,12 +16,12 @@
   },
   "author": "",
   "license": "ISC",
-   "dependencies": {
+  "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.4"},
+    "express": "^4.15.4"
+  },
   "bugs": {
     "url": "https://github.com/hannerc/friendFinder/issues"
   },
   "homepage": "https://github.com/hannerc/friendFinder/app/public/home.html"
 }
-
